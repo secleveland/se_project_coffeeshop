@@ -13,5 +13,8 @@ package-lock.json
 yarn.lock
 
 
-# Ignore Prettier config itself
+# Ignore Prettier config
 .prettierignore
+
+# Ignore normalize
+src/styles/normalize.css
