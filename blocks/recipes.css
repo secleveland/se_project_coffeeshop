@@ -1,6 +1,7 @@
 .recipes {
   padding: 100px 0px 215px 80px;
-  background-color: #0b1d3d;
+  background: #0a2750 url(../images/background_recipes.svg) center/cover
+    no-repeat;
   color: #fff;
   font-family: "Inter", sans-serif;
   text-align: center;
@@ -10,7 +11,6 @@
   margin: 0px 0px 24px;
   max-width: 580px;
   text-align: left;
-  font-family: "Inter";
   font-style: normal;
   font-weight: 500;
   font-size: 44px;

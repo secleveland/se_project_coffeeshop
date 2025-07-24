@@ -22,11 +22,12 @@
   max-width: 660px;
   display: flex;
   flex-direction: column;
+  margin-top: 19px;
   gap: 20px;
 }
 
 .about__paragraph {
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", Arial, Helvetica, sans-serif;
   font-size: 20px;
   line-height: 30px;
   margin: 0px;
