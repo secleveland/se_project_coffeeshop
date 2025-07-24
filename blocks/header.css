@@ -5,10 +5,10 @@
   flex-direction: column;
   overflow: hidden;
   height: 800px;
-  padding: 2rem 1rem;
+  padding: 30px 80px 40px;
   background-image: url("../images/background_header.svg");
   background-repeat: no-repeat;
-  background-position: right;
+  background-position: center;
   background-size: cover;
 }
 
